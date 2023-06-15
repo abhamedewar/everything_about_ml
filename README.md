@@ -1,3 +1,3 @@
-# Everything About ML
+# Everything About Machine Learning
 
 
