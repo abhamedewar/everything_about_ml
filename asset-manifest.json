@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/everything_about_ml/static/css/main.3bc65b84.css",
-    "main.js": "/everything_about_ml/static/js/main.566c0451.js",
-    "static/js/787.cd399572.chunk.js": "/everything_about_ml/static/js/787.cd399572.chunk.js",
-    "index.html": "/everything_about_ml/index.html",
-    "main.3bc65b84.css.map": "/everything_about_ml/static/css/main.3bc65b84.css.map",
-    "main.566c0451.js.map": "/everything_about_ml/static/js/main.566c0451.js.map",
-    "787.cd399572.chunk.js.map": "/everything_about_ml/static/js/787.cd399572.chunk.js.map"
+    "main.css": "/static/css/main.983ea52e.css",
+    "main.js": "/static/js/main.8ef8d67b.js",
+    "static/js/787.cd399572.chunk.js": "/static/js/787.cd399572.chunk.js",
+    "static/media/Precisionrecall.png": "/static/media/Precisionrecall.2ab4c0bf43a326582f33.png",
+    "static/media/flops.png": "/static/media/flops.a63526edbbb9de7fc2c4.png",
+    "static/media/dice.png": "/static/media/dice.d73de97e0f9df8f57fdc.png",
+    "static/media/precision_recall_result.png": "/static/media/precision_recall_result.b3642f647878b8ace805.png",
+    "static/media/confusion_matrix.png": "/static/media/confusion_matrix.a89d218a7993e87889c9.png",
+    "static/media/example.png": "/static/media/example.cbb4e16205c387d32e19.png",
+    "index.html": "/index.html",
+    "main.983ea52e.css.map": "/static/css/main.983ea52e.css.map",
+    "main.8ef8d67b.js.map": "/static/js/main.8ef8d67b.js.map",
+    "787.cd399572.chunk.js.map": "/static/js/787.cd399572.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3bc65b84.css",
-    "static/js/main.566c0451.js"
+    "static/css/main.983ea52e.css",
+    "static/js/main.8ef8d67b.js"
   ]
 }
