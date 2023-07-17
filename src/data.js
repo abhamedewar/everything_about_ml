@@ -1,12 +1,28 @@
 import cnn_output_shape from '../src/images/cnn_output_shape.png';
 import flops from '../src/images/flops.png';
 import confusion_matrix from '../src/images/confusion_matrix.png'
-import p_r from '../src/images/precision_recall.png'
 import p_r_1 from '../src/images/Precisionrecall.png'
 import example from '../src/images/example.png'
 import p_r_result from '../src/images/precision_recall_result.png'
+import dice from '../src/images/dice.png'
 
 export const data = [
+  {
+    title: "Cross Validation",
+    desc: (<>
+    <u><b>Types of Cross Validation: </b></u><br></br> <br></br>
+    <ul>
+      <li>1. <b>Hold Out Cross Validation</b></li>
+      <li>2. <b>k-Fold Cross Validation</b></li>
+      <li>3. <b>Leave-one-out Cross Validation</b></li>
+      <li>4. <b>Leave-p-out Cross Validation</b></li>
+      <li>5. <b>Stratified k-Fold Cross Validation</b></li>
+      <li>6. <b>Repeated k-Fold Cross Validation</b></li>
+      <li>7. <b>Nested k-Fold</b></li>
+    </ul> 
+    <br></br>   
+    </>),
+  },
   {
     title: "Output shape after CNN operation",
     desc: (<>
@@ -88,7 +104,12 @@ export const data = [
     
     </>),
   },
-
+  {
+    title: "Evaluation metric for segmentation model",
+    desc: (<>
+    <img src={dice} alt="Precision Recall" width="400" height="300"></img><br></br>
+    </>),
+  },
   {
     title: "Epoch",
     desc: (<>One complete pass through the training data.</>),
