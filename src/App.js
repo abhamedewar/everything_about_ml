@@ -10,7 +10,7 @@ function App() {
 
   return (
     <div className="App flex-col flex overflow-hidden items-center font-normal">
-      <div className="text-5xl font-extrabold my-5">Everything About Machine Learning</div>
+      <div className="text-5xl font-bold my-5">Everything About Machine Learning</div>
       <div className="my-10 mx-5 w-[95%] flex flex-col gap-5 items-center justify-center">
         {data.map((item, index) => (
           <MyComponent key={index} title={item.title} desc={item.desc} />
